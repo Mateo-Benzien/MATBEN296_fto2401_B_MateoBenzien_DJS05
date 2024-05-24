@@ -76,6 +76,7 @@ store.dispatch(resetAction()); // Should log: { count: 0 }
 
 
 
+//notes to self 
 
 //for the testing
 
